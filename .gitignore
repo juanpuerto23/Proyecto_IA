@@ -13,15 +13,6 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Archivos de datos descargados (el usuario los descarga por separado)
-data/ratings.csv
-data/movies.csv
-data/links.csv
-data/tags.csv
-
-# Resultados temporales
-reports/figures/*.png
-
 # Configuraciones de IDEs
 .vscode/
 .idea/
